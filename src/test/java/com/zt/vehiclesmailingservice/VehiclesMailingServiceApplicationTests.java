@@ -9,5 +9,9 @@ class VehiclesMailingServiceApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	@Test
+	void testListenAndSend(){
+		//TODO
+	}
 
 }
